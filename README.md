@@ -14,3 +14,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serinkanosman&show_icons=true&locale=en&layout=compact" alt="serinkanosman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serinkanosman&show_icons=true&locale
+
+
+![snake gif](https://github.com/serinkanosman/serinkanosman/blob/output/github-contribution-grid-snake.gif)
