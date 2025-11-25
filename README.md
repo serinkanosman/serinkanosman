@@ -24,5 +24,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=serinkanosman&show_icons=true&count_private=true&theme=transparent" alt="serinkanosman github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serinkanosman&theme=dark" alt="serinkanosman streak" />
 </p>
